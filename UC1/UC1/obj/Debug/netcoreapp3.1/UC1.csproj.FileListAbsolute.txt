@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.exe
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.deps.json
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.dll
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.pdb
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.dll
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.pdb
+C:\Users\Amit Pegu\Desktop\AddressBook\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.genruntimeconfig.cache

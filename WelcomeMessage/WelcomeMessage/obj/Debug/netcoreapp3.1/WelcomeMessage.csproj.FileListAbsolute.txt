@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.exe
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.deps.json
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.dll
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.dll
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.pdb
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\obj\Debug\netcoreapp3.1\WelcomeMessage.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\AddressBook\WelcomeMessage\WelcomeMessage\bin\Debug\netcoreapp3.1\WelcomeMessage.pdb

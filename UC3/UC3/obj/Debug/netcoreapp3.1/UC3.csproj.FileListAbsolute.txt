@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.exe
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.deps.json
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.dll
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.dll
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.pdb
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\ContactBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.pdb
